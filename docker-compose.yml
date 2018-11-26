@@ -10,3 +10,4 @@ services:
     environment:
       - KIBANA_CONNECT_RETRY
       - ES_CONNECT_RETRY
+      - ES_JAVA_OPTS
